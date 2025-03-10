@@ -47,7 +47,7 @@ Also spent time working on my documentation too, to elaborate my work clearly to
 
 A CI/CD pipeline is an automated process for integrating, testing, building, and deploying code changes. 
 
-It ensures continuous development of software code, code testing, detection/troubleshooting of bugs and continuous deployment of error-free code, new software features and bug fixes automatically to production, very quickly - reducing the risk of human errors, ensuring faster and more reliable software delivery.
+It ensures continuous development of software code, code testing, detection/troubleshooting of bugs and continuous deployment of error-free code, new software features and bug fixes automatically to production, very quickly - reducing the risk of human errors, ensuring faster (shortened development cycles) and more reliable software delivery.
 
 ### My CI/CD pipeline has three stages
 
